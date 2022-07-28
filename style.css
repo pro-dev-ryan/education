@@ -1,0 +1,57 @@
+.hero-1,
+.hero-2,
+.hero-3 {
+  top: 1%;
+  left: 0;
+  bottom: 0;
+  right: 1%;
+  color: ghostwhite;
+}
+
+.hero-1 h2,
+p,
+a .hero-2 h2,
+p,
+a .hero-3 h2,
+p,
+a {
+  z-index: 10;
+}
+
+.mask {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.708);
+  top: 0%;
+  left: 0%;
+  bottom: 0;
+  right: 0%;
+}
+
+.head-text-1 {
+  font-size: 4.5rem;
+}
+
+.sub-text-1 {
+  font-size: 1.5rem;
+}
+
+.hero-btn-1 {
+  font-size: 1.5rem;
+}
+
+.bg-grad {
+  background-image: linear-gradient(#5fa6e8, #31b2ee);
+  color: azure;
+}
+
+.btn-text {
+  padding: 0.1rem 0.2rem;
+}
+
+.head-text {
+  font-size: 1.2rem;
+}
+
+.sub-text {
+  font-size: 0.7rem;
+}

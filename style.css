@@ -72,3 +72,8 @@ a {
 .course-text h6 {
   color: #31b2ee;
 }
+
+.reg {
+  margin-top: 1.5em;
+  min-height: 200px;
+}
